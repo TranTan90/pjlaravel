@@ -1,0 +1,1 @@
+chứa giao diện template cho từng cấu trúc giống nhau
